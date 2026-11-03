@@ -1,0 +1,15 @@
+# LTspice output (regenerated on every run)
+*.raw
+*.log
+*.op.raw
+*.fft
+*.wav
+# netlists generated from schematics (hand-written netlists in Demo/1*.net and Netlisten/ are kept)
+Versuch-*/04_LTspice/Kurs-Modelle/**/*.net
+Versuch-*/04_LTspice/Demo/0*.net
+# Office lock / temp files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini

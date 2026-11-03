@@ -1,0 +1,14 @@
+* rv_template
+Vs NS 0 PULSE(0 15 0 1 1 0 2)
+Rv NS A {Rv}
+R1 A N1 1500
+R2 N1 TR 1000
+R3 TR 0 7000
+XOK A N1 TR 0 PC817 Igain=1m
+.param Rv=0.1
+.step param Rv list 0.1 100 1k
+.tran 0 2 0 1m
+.lib C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+.lib PC817.sub
+.backanno
+.end

@@ -1,0 +1,17 @@
+* schmitt_plot
+Vs NS 0 5
+Rv NS A {Rv}
+R1 A N1 800
+R2 N1 TR 400
+R3 TR M 5000
+XOK A N1 TR M PC817 Igain=1m
+DOUT M 0 QTLP690C
+XIN LA 0 TR M PC817 Igain=1m
+IL 0 LA PULSE(0 2.5m 0 1 1 0 2)
+.param Rv=0.1
+.step param Rv list 0.1 100 200 400
+.tran 0 2 0 0.5m
+.lib C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+.lib PC817.sub
+.backanno
+.end

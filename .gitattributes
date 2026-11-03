@@ -1,0 +1,8 @@
+# keep LTspice files byte-exact (some are UTF-16)
+*.asc -text
+*.plt -text
+*.net -text
+*.asy -text
+*.docx binary
+*.pdf binary
+*.png binary

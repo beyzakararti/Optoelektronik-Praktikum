@@ -1,0 +1,18 @@
+* mem_ldr
+Vs NS 0 PWL(0 0 4m 9)
+Rv NS A 1m
+R1 A N1 1500
+R2 N1 TR 1000
+R3 TR M 7000
+XOK A N1 TR M PC817 Igain=1m
+DOUT M 0 QTLP690C
+XIN LA 0 TR M PC817 Igain=1m
+IL 0 LA PWL(0 0 20m 0 20.1m 1m 40m 1m 40.1m 0)
+RLDR A N1 R=if(time>60m & time<80m, {Rl}, 1e8)
+.param Rl=500
+.step param Rl list 500 1000 1500 2000 3000 5000
+.tran 0 100m 0 0.2m
+.lib C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+.lib PC817.sub
+.backanno
+.end

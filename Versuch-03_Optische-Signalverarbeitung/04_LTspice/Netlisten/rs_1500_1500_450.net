@@ -1,0 +1,18 @@
+* rs_1500_1500_450
+V0 NS 0 PULSE(0 20 0 1 1 0)
+Rv NS A 450
+R1a A N1a 1500
+R2a N1a TRa 1000
+R3a TRa Ma 7000
+XOKa A N1a TRa Ma PC817 Igain=1m
+DOUTa Ma 0 QTLP690C
+R1b A N1b 1500
+R2b N1b TRb 1000
+R3b TRb Mb 7000
+XOKb A N1b TRb Mb PC817 Igain=1m
+DOUTb Mb 0 QTLP690C
+.tran 0 2 0 1m
+.lib C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+.lib PC817.sub
+.backanno
+.end
