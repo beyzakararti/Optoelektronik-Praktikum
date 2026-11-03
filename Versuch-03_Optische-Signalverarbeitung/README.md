@@ -8,6 +8,7 @@
 | Versuchsanleitung / Manual / Föy | [DE](01_Unterlagen/d_poe_exp3_unterlagen.pdf) · [EN](01_Unterlagen/e_poe_exp3_documentation.pdf) |
 | Vorbereitung (Task 1, Fragen 1–4) / Preparation / Hazırlık | [PDF](02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) · [DOCX](02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.docx) |
 | Protokoll (Simulationen ausgefüllt) / Report / Rapor | [DOCX](06_Protokoll/Protokoll_Versuch3_Simulation_ausgefuellt.docx) |
+| Fotos / Photos / Fotoğraflar | [07_Messungen/Fotos](07_Messungen/Fotos/) |
 | LTspice-Demo | [04_LTspice/Demo](04_LTspice/Demo/) |
 | Chat | [Chat-Verlauf_Versuch3.md](Chat-Verlauf_Versuch3.md) |
 
