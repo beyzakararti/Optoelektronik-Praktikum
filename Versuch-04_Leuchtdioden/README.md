@@ -9,6 +9,7 @@
 |---|---|
 | Versuchsanleitung / Manual / Föy | [DE](01_Unterlagen/d_poe_exp4.pdf) · [EN](01_Unterlagen/e_poe_exp4.pdf) |
 | Vorbereitung (Aufgaben 1–5 mit Lösungen, Antestat-Fragen) / Preparation / Hazırlık | [PDF](02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf) · [DOCX](02_Vorbereitung/Vorbereitung_Versuch4_Fragen.docx) |
+| Auswertung (Excel-Vorlage mit Formeln) / Evaluation template / Değerlendirme şablonu | [XLSX](06_Auswertung/Auswertung_Versuch4.xlsx) |
 | LTspice-Demo | [04_LTspice/Demo](04_LTspice/Demo/) · Screenshots: [05_Simulationsergebnisse](05_Simulationsergebnisse/) |
 
 **Kurz erklärt** · **In short** · **Kısaca**
