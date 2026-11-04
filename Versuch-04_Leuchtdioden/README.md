@@ -35,3 +35,5 @@ GitHub kann LTspice nicht direkt starten · *GitHub cannot launch local programs
 *Die Modellparameter sind zur Veranschaulichung gewählt (Shockley-Diode, N = 2, R_S = 5 Ω), keine Messdaten. · The model parameters are chosen for illustration (Shockley diode, N = 2, R_S = 5 Ω), not measured data. · Model parametreleri gösterim içindir, ölçüm verisi değildir.*
 
 Status: 📅 vorbereitet, Termin steht an · *prepared, date coming up* · *hazırlandı, deney yaklaşıyor*
+
+🧠 Ursache–Wirkung-Spickzettel / cause-and-effect cheat sheet / neden-sonuç cep kılavuzu: [PDF](../Allgemein/Neden-Sonuc_Spickzettel_Alle_Versuche.pdf)

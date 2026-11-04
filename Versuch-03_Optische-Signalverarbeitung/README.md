@@ -53,3 +53,5 @@ GitHub kann LTspice nicht direkt starten · *GitHub cannot launch local programs
 **Hinweise / Notes / Notlar**
 - Protokollvorlage 3.2: R1 = 400 Ω / R2 = 800 Ω liefert bei 5 V keine Hysterese; vermutlich vertauscht (Simulationsdatei: 800 Ω / 400 Ω).
 - Tabelle 1 der Anleitung: letzte Spalte heißt „R1“, gemeint ist **R_V**.
+
+🧠 Ursache–Wirkung-Spickzettel / cause-and-effect cheat sheet / neden-sonuç cep kılavuzu: [PDF](../Allgemein/Neden-Sonuc_Spickzettel_Alle_Versuche.pdf)

@@ -25,6 +25,8 @@
 
 ⬜ noch nicht begonnen · 📅 vorbereitet, Termin steht an · 🔬 durchgeführt, Protokoll offen · ✅ abgeschlossen
 
+🧠 **Ursache–Wirkung-Spickzettel für alle 6 Versuche (TR/DE):** [PDF](Allgemein/Neden-Sonuc_Spickzettel_Alle_Versuche.pdf)
+
 **Antestat** (jeweils 14:00 Uhr): Versuche 1–3 (OE) – Gebäude LT, Raum LT 227 · Versuche 4–5 (WET) – Gebäude BC, Raum BC 119 · Versuch 6 (WET) – Gebäude BA, Raum BA 114
 
 ### Ordnerstruktur pro Versuch
@@ -71,6 +73,8 @@
 
 ⬜ not started · 📅 prepared, date coming up · 🔬 done, report open · ✅ finished
 
+🧠 **Cause-and-effect cheat sheet for all 6 experiments (TR/DE):** [PDF](Allgemein/Neden-Sonuc_Spickzettel_Alle_Versuche.pdf)
+
 **Pre-test (Antestat)** (always 14:00): experiments 1–3 (OE) – building LT, room LT 227 · experiments 4–5 (WET) – building BC, room BC 119 · experiment 6 (WET) – building BA, room BA 114
 
 ### Folder structure per experiment
@@ -116,6 +120,8 @@
 | 6 | [Lazer diyotlarda mod seçimi ve DFB lazer](Versuch-06_Modenselektion-DFB-Laser/) | 16 Aralık 2026 | – | – | [DE](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/d_poe_exp6.pdf) · [EN](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/e_poe_exp6_preliminary.pdf) | – | – | – | ⬜ |
 
 ⬜ başlanmadı · 📅 hazırlandı, deney yaklaşıyor · 🔬 yapıldı, rapor bekliyor · ✅ tamamlandı
+
+🧠 **6 deneyin tamamı için neden–sonuç cep kılavuzu (TR/DE):** [PDF](Allgemein/Neden-Sonuc_Spickzettel_Alle_Versuche.pdf)
 
 **Antestat (ön sınav)** (hep saat 14:00): deney 1–3 (OE) – LT binası, oda LT 227 · deney 4–5 (WET) – BC binası, oda BC 119 · deney 6 (WET) – BA binası, oda BA 114
 
