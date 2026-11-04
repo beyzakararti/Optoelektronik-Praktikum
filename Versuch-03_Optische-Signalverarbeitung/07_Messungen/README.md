@@ -12,3 +12,9 @@ Hier kommen die eigenen Messdaten aus dem Praktikum hin, Fotos in [`Fotos/`](Fot
 *`Anleitung_*` are the equipment photos from the lab manual. / `Anleitung_*` föydeki cihaz fotoğraflarıdır.*
 
 Potentiometerstellungen (%) immer mitnotieren! · *Always note the potentiometer positions! · Potansiyometre konumlarını mutlaka not et!*
+
+## Versuch 3 – Gruppe 9 (04.11.2026)
+
+- [`261104_Messergebnisse_Gruppe09_Plotter.pdf`](261104_Messergebnisse_Gruppe09_Plotter.pdf) – Plotter-Ausdrucke (R1, R2, R3, Rv, Speicher bei 6 V, Flip-Flop)
+- `Fotos/` – Oszilloskop- und Aufbaufotos, benannt nach Protokollabschnitt (z. B. `2.3c_…`)
+- Protokoll: [`../06_Protokoll/`](../06_Protokoll/)
