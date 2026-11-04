@@ -6,21 +6,19 @@
 
 ## 🇩🇪 Deutsch
 
-> 📅 **Diese Woche: Versuch 3 – Optische Signalverarbeitung**
-> 1. Vorab lesen: [Erklärung (PDF)](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf)
-> 2. Vorbereitung: [Task 1 + Fragen 1–4 mit Lösungen (PDF)](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf)
-> 3. Versuchsanleitung: [PDF](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf)
+> 📅 **Nächster Termin: Versuch 4 – Leuchtdioden, 18.11.2026** (Gruppe 9) – Unterlagen folgen.
+> Zuletzt erledigt: [Versuch 3 – Protokoll (PDF)](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [Erklärung](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf)
 
 ### Übersicht der 6 Versuche
 
 | Nr. | Versuch | Termin | Vorab lesen | Task / Vorbereitung | Versuchsanleitung | Fotos | Protokoll | LTspice | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | *folgt* | – | – | – | – | – | – | – | ⬜ |
-| 2 | *folgt* | – | – | – | – | – | – | – | ⬜ |
-| 3 | [Optische Signalverarbeitung](Versuch-03_Optische-Signalverarbeitung/) | KW 45 / 2026 | [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) | [Fotos](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ Protokoll fertig |
-| 4 | *folgt* | – | – | – | – | – | – | – | ⬜ |
-| 5 | *folgt* | – | – | – | – | – | – | – | ⬜ |
-| 6 | *folgt* | – | – | – | – | – | – | – | ⬜ |
+| 1 | Optisches Freistrahl-Übertragungssystem | 20.01.2027 | – | – | – | – | – | – | ⬜ |
+| 2 | Optoelektronische Energiewandlung | 03.02.2027 | – | – | – | – | – | – | ⬜ |
+| 3 | [Optische Signalverarbeitung](Versuch-03_Optische-Signalverarbeitung/) | 04.11.2026 | [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) | [Fotos](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ Protokoll fertig |
+| 4 | Leuchtdioden | 18.11.2026 | – | – | – | – | – | – | ⬜ |
+| 5 | Laserdioden | 02.12.2026 | – | – | – | – | – | – | ⬜ |
+| 6 | Modenselektion in Laserdioden und DFB-Laser | 16.12.2026 | – | – | – | – | – | – | ⬜ |
 
 ⬜ noch nicht begonnen · 📅 vorbereitet, Termin steht an · 🔬 durchgeführt, Protokoll offen · ✅ abgeschlossen
 
@@ -49,21 +47,19 @@
 
 ## 🇬🇧 English
 
-> 📅 **This week: Experiment 3 – Optical Signal Processing**
-> 1. Read beforehand: [Explanation (PDF)](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf)
-> 2. Preparation: [Task 1 + Questions 1–4 with answers (PDF)](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf)
-> 3. Lab manual: [PDF](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf)
+> 📅 **Next date: Experiment 4 – Light-emitting diodes, 18 Nov 2026** (group 9) – documents to follow.
+> Last done: [Experiment 3 – report (PDF)](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [Explanation](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf)
 
 ### Overview of the 6 experiments
 
 | No. | Experiment | Date | Read first | Task / Preparation | Lab manual | Photos | Report | LTspice | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | *to follow* | – | – | – | – | – | – | – | ⬜ |
-| 2 | *to follow* | – | – | – | – | – | – | – | ⬜ |
-| 3 | [Optical Signal Processing](Versuch-03_Optische-Signalverarbeitung/) | week 45 / 2026 | [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) · [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) | [Photos](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ report done |
-| 4 | *to follow* | – | – | – | – | – | – | – | ⬜ |
-| 5 | *to follow* | – | – | – | – | – | – | – | ⬜ |
-| 6 | *to follow* | – | – | – | – | – | – | – | ⬜ |
+| 1 | Optical free-space transmission system | 20 Jan 2027 | – | – | – | – | – | – | ⬜ |
+| 2 | Optoelectronic energy conversion | 3 Feb 2027 | – | – | – | – | – | – | ⬜ |
+| 3 | [Optical Signal Processing](Versuch-03_Optische-Signalverarbeitung/) | 4 Nov 2026 | [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) · [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) | [Photos](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ report done |
+| 4 | Light-emitting diodes | 18 Nov 2026 | – | – | – | – | – | – | ⬜ |
+| 5 | Laser diodes | 2 Dec 2026 | – | – | – | – | – | – | ⬜ |
+| 6 | Mode selection in laser diodes and DFB lasers | 16 Dec 2026 | – | – | – | – | – | – | ⬜ |
 
 ⬜ not started · 📅 prepared, date coming up · 🔬 done, report open · ✅ finished
 
@@ -92,21 +88,19 @@
 
 ## 🇹🇷 Türkçe
 
-> 📅 **Bu hafta: Deney 3 – Optik Sinyal İşleme**
-> 1. Önceden oku: [Açıklama (PDF)](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf)
-> 2. Hazırlık: [Task 1 + Soru 1–4, cevaplarıyla (PDF)](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf)
-> 3. Deney föyü: [İngilizce PDF](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [Almanca PDF](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf)
+> 📅 **Sıradaki tarih: Deney 4 – Işık yayan diyotlar, 18 Kasım 2026** (Grup 9) – dokümanlar sonra eklenecek.
+> Son tamamlanan: [Deney 3 – rapor (PDF)](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [Açıklama](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf)
 
 ### 6 deneyin özeti
 
 | No | Deney | Tarih | Ön okuma | Task / Hazırlık | Deney föyü | Fotoğraflar | Rapor | LTspice | Durum |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | *sonra eklenecek* | – | – | – | – | – | – | – | ⬜ |
-| 2 | *sonra eklenecek* | – | – | – | – | – | – | – | ⬜ |
-| 3 | [Optik Sinyal İşleme](Versuch-03_Optische-Signalverarbeitung/) | 45. hafta / 2026 | [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) | [Fotoğraflar](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ rapor hazır |
-| 4 | *sonra eklenecek* | – | – | – | – | – | – | – | ⬜ |
-| 5 | *sonra eklenecek* | – | – | – | – | – | – | – | ⬜ |
-| 6 | *sonra eklenecek* | – | – | – | – | – | – | – | ⬜ |
+| 1 | Optik serbest-ışın iletim sistemi | 20 Ocak 2027 | – | – | – | – | – | – | ⬜ |
+| 2 | Optoelektronik enerji dönüşümü | 3 Şubat 2027 | – | – | – | – | – | – | ⬜ |
+| 3 | [Optik Sinyal İşleme](Versuch-03_Optische-Signalverarbeitung/) | 4 Kasım 2026 | [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) | [Fotoğraflar](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ rapor hazır |
+| 4 | Işık yayan diyotlar (LED) | 18 Kasım 2026 | – | – | – | – | – | – | ⬜ |
+| 5 | Lazer diyotlar | 2 Aralık 2026 | – | – | – | – | – | – | ⬜ |
+| 6 | Lazer diyotlarda mod seçimi ve DFB lazer | 16 Aralık 2026 | – | – | – | – | – | – | ⬜ |
 
 ⬜ başlanmadı · 📅 hazırlandı, deney yaklaşıyor · 🔬 yapıldı, rapor bekliyor · ✅ tamamlandı
 
