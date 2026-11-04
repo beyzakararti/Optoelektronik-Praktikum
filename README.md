@@ -6,7 +6,10 @@
 
 ## 🇩🇪 Deutsch
 
-> 📅 **Nächster Termin: Versuch 4 – Leuchtdioden, 18.11.2026** (Gruppe 9) – Unterlagen folgen.
+> 📅 **Nächster Termin: Versuch 4 – Leuchtdioden, 18.11.2026** (Gruppe 9)
+> 1. Vorab lesen: [Erklärung (PDF)](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_DE.pdf)
+> 2. Vorbereitung: [Aufgaben 1–5 + Antestat-Fragen mit Lösungen (PDF)](Versuch-04_Leuchtdioden/02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf)
+> 3. Versuchsanleitung: [PDF](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · LTspice-Demo: [Ordner](Versuch-04_Leuchtdioden/04_LTspice/Demo/)
 > Zuletzt erledigt: [Versuch 3 – Protokoll (PDF)](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [Erklärung](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf)
 
 ### Übersicht der 6 Versuche
@@ -16,7 +19,7 @@
 | 1 | [Optisches Freistrahl-Übertragungssystem](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/) | 20.01.2027 | – | – | [DE](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/01_Unterlagen/d_poe_exp1.pdf) · [EN](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/01_Unterlagen/e_poe_exp1.pdf) | – | [Vorlage](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/06_Protokoll/Vorlage_Protokoll_Versuch1_WS26-27.docx) | – | ⬜ |
 | 2 | [Optoelektronische Energiewandlung](Versuch-02_Optoelektronische-Energiewandlung/) | 03.02.2027 | – | – | [DE](Versuch-02_Optoelektronische-Energiewandlung/01_Unterlagen/d_poe_exp2.pdf) · [EN](Versuch-02_Optoelektronische-Energiewandlung/01_Unterlagen/e_poe_exp2.pdf) | – | – | – | ⬜ |
 | 3 | [Optische Signalverarbeitung](Versuch-03_Optische-Signalverarbeitung/) | 04.11.2026 | [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) | [Fotos](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ Protokoll fertig |
-| 4 | [Leuchtdioden – Grundlagen, Abstrahlung und optische Auskopplung](Versuch-04_Leuchtdioden/) | 18.11.2026 | – | – | [DE](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · [EN](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) | – | – | – | ⬜ |
+| 4 | [Leuchtdioden – Grundlagen, Abstrahlung und optische Auskopplung](Versuch-04_Leuchtdioden/) | 18.11.2026 | [DE](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_DE.pdf) · [EN](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_EN.pdf) · [TR](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_TR.pdf) | [PDF](Versuch-04_Leuchtdioden/02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf) | [DE](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · [EN](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) | – | – | [Demo](Versuch-04_Leuchtdioden/04_LTspice/Demo/) | 📅 vorbereitet |
 | 5 | [Laserdioden](Versuch-05_Laserdioden/) | 02.12.2026 | – | – | [DE](Versuch-05_Laserdioden/01_Unterlagen/d_poe_exp5.pdf) · [EN](Versuch-05_Laserdioden/01_Unterlagen/e_poe_exp5.pdf) | – | – | – | ⬜ |
 | 6 | [Modenselektion in Laserdioden und DFB-Laser](Versuch-06_Modenselektion-DFB-Laser/) | 16.12.2026 | – | – | [DE](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/d_poe_exp6.pdf) · [EN](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/e_poe_exp6_preliminary.pdf) | – | – | – | ⬜ |
 
@@ -49,7 +52,10 @@
 
 ## 🇬🇧 English
 
-> 📅 **Next date: Experiment 4 – Light-emitting diodes, 18 Nov 2026** (group 9) – documents to follow.
+> 📅 **Next date: Experiment 4 – Light-emitting diodes, 18 Nov 2026** (group 9)
+> 1. Read beforehand: [Explanation (PDF)](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_EN.pdf)
+> 2. Preparation: [Tasks 1–5 + pre-test questions with answers (PDF)](Versuch-04_Leuchtdioden/02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf)
+> 3. Lab manual: [PDF](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) · LTspice demo: [folder](Versuch-04_Leuchtdioden/04_LTspice/Demo/)
 > Last done: [Experiment 3 – report (PDF)](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [Explanation](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf)
 
 ### Overview of the 6 experiments
@@ -59,7 +65,7 @@
 | 1 | [Optical free-space transmission system](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/) | 20 Jan 2027 | – | – | [DE](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/01_Unterlagen/d_poe_exp1.pdf) · [EN](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/01_Unterlagen/e_poe_exp1.pdf) | – | [template](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/06_Protokoll/Vorlage_Protokoll_Versuch1_WS26-27.docx) | – | ⬜ |
 | 2 | [Optoelectronic energy conversion](Versuch-02_Optoelektronische-Energiewandlung/) | 3 Feb 2027 | – | – | [DE](Versuch-02_Optoelektronische-Energiewandlung/01_Unterlagen/d_poe_exp2.pdf) · [EN](Versuch-02_Optoelektronische-Energiewandlung/01_Unterlagen/e_poe_exp2.pdf) | – | – | – | ⬜ |
 | 3 | [Optical Signal Processing](Versuch-03_Optische-Signalverarbeitung/) | 4 Nov 2026 | [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) · [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) | [Photos](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ report done |
-| 4 | [Light-emitting diodes – basics, radiation and optical outcoupling](Versuch-04_Leuchtdioden/) | 18 Nov 2026 | – | – | [DE](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · [EN](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) | – | – | – | ⬜ |
+| 4 | [Light-emitting diodes – basics, radiation and optical outcoupling](Versuch-04_Leuchtdioden/) | 18 Nov 2026 | [DE](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_DE.pdf) · [EN](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_EN.pdf) · [TR](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_TR.pdf) | [PDF](Versuch-04_Leuchtdioden/02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf) | [DE](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · [EN](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) | – | – | [Demo](Versuch-04_Leuchtdioden/04_LTspice/Demo/) | 📅 prepared |
 | 5 | [Laser diodes](Versuch-05_Laserdioden/) | 2 Dec 2026 | – | – | [DE](Versuch-05_Laserdioden/01_Unterlagen/d_poe_exp5.pdf) · [EN](Versuch-05_Laserdioden/01_Unterlagen/e_poe_exp5.pdf) | – | – | – | ⬜ |
 | 6 | [Mode selection in laser diodes and DFB lasers](Versuch-06_Modenselektion-DFB-Laser/) | 16 Dec 2026 | – | – | [DE](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/d_poe_exp6.pdf) · [EN](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/e_poe_exp6_preliminary.pdf) | – | – | – | ⬜ |
 
@@ -92,7 +98,10 @@
 
 ## 🇹🇷 Türkçe
 
-> 📅 **Sıradaki tarih: Deney 4 – Işık yayan diyotlar, 18 Kasım 2026** (Grup 9) – dokümanlar sonra eklenecek.
+> 📅 **Sıradaki tarih: Deney 4 – Işık yayan diyotlar, 18 Kasım 2026** (Grup 9)
+> 1. Önceden oku: [Açıklama (PDF)](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_TR.pdf)
+> 2. Hazırlık: [Görev 1–5 + Antestat soruları, cevaplarıyla (PDF)](Versuch-04_Leuchtdioden/02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf)
+> 3. Deney föyü: [PDF](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) · LTspice demosu: [klasör](Versuch-04_Leuchtdioden/04_LTspice/Demo/)
 > Son tamamlanan: [Deney 3 – rapor (PDF)](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [Açıklama](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf)
 
 ### 6 deneyin özeti
@@ -102,7 +111,7 @@
 | 1 | [Optik serbest-ışın iletim sistemi](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/) | 20 Ocak 2027 | – | – | [DE](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/01_Unterlagen/d_poe_exp1.pdf) · [EN](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/01_Unterlagen/e_poe_exp1.pdf) | – | [şablon](Versuch-01_Optisches-Freistrahl-Uebertragungssystem/06_Protokoll/Vorlage_Protokoll_Versuch1_WS26-27.docx) | – | ⬜ |
 | 2 | [Optoelektronik enerji dönüşümü](Versuch-02_Optoelektronische-Energiewandlung/) | 3 Şubat 2027 | – | – | [DE](Versuch-02_Optoelektronische-Energiewandlung/01_Unterlagen/d_poe_exp2.pdf) · [EN](Versuch-02_Optoelektronische-Energiewandlung/01_Unterlagen/e_poe_exp2.pdf) | – | – | – | ⬜ |
 | 3 | [Optik Sinyal İşleme](Versuch-03_Optische-Signalverarbeitung/) | 4 Kasım 2026 | [TR](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_TR.pdf) · [EN](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_EN.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/03_Erklaerung/Versuch3_Erklaerung_DE.pdf) | [PDF](Versuch-03_Optische-Signalverarbeitung/02_Vorbereitung/Vorbereitung_Task1_Fragen_Versuch3.pdf) | [EN](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/e_poe_exp3_documentation.pdf) · [DE](Versuch-03_Optische-Signalverarbeitung/01_Unterlagen/d_poe_exp3_unterlagen.pdf) | [Fotoğraflar](Versuch-03_Optische-Signalverarbeitung/07_Messungen/Fotos/) | [PDF](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.pdf) · [DOCX](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Gruppe9_DE.docx) · [DE/EN/TR](Versuch-03_Optische-Signalverarbeitung/06_Protokoll/Protokoll_Versuch3_Erklaerung_DE-EN-TR.pdf) | [Demo](Versuch-03_Optische-Signalverarbeitung/04_LTspice/Demo/) | ✅ rapor hazır |
-| 4 | [Işık yayan diyotlar – temeller, ışıma ve optik çıkış](Versuch-04_Leuchtdioden/) | 18 Kasım 2026 | – | – | [DE](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · [EN](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) | – | – | – | ⬜ |
+| 4 | [Işık yayan diyotlar – temeller, ışıma ve optik çıkış](Versuch-04_Leuchtdioden/) | 18 Kasım 2026 | [DE](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_DE.pdf) · [EN](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_EN.pdf) · [TR](Versuch-04_Leuchtdioden/03_Erklaerung/Versuch4_Erklaerung_TR.pdf) | [PDF](Versuch-04_Leuchtdioden/02_Vorbereitung/Vorbereitung_Versuch4_Fragen.pdf) | [DE](Versuch-04_Leuchtdioden/01_Unterlagen/d_poe_exp4.pdf) · [EN](Versuch-04_Leuchtdioden/01_Unterlagen/e_poe_exp4.pdf) | – | – | [Demo](Versuch-04_Leuchtdioden/04_LTspice/Demo/) | 📅 hazırlandı |
 | 5 | [Lazer diyotlar](Versuch-05_Laserdioden/) | 2 Aralık 2026 | – | – | [DE](Versuch-05_Laserdioden/01_Unterlagen/d_poe_exp5.pdf) · [EN](Versuch-05_Laserdioden/01_Unterlagen/e_poe_exp5.pdf) | – | – | – | ⬜ |
 | 6 | [Lazer diyotlarda mod seçimi ve DFB lazer](Versuch-06_Modenselektion-DFB-Laser/) | 16 Aralık 2026 | – | – | [DE](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/d_poe_exp6.pdf) · [EN](Versuch-06_Modenselektion-DFB-Laser/01_Unterlagen/e_poe_exp6_preliminary.pdf) | – | – | – | ⬜ |
 
