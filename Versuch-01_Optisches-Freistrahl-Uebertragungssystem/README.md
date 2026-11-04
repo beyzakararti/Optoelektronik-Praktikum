@@ -2,7 +2,7 @@
 *Experiment 1 – Optical free-space transmission system · Deney 1 – Optik serbest-ışın iletim sistemi*
 
 - 📅 Gruppe 9 / group 9 / grup 9: **20.01.2027** · Antestat 14:00, Gebäude LT, Raum LT 227
-- Protokollvorlage · Report template · Rapor şablonu: [06_Protokoll/Vorlage_Protokoll_Versuch1_WS26-27.docx](06_Protokoll/Vorlage_Protokoll_Versuch1_WS26-27.docx)
+- Protokollvorlage · Report template · Rapor şablonu: [Vorlage](06_Protokoll/Vorlage_Protokoll_Versuch1_WS26-27.docx) · vorbereitet (Namen, Datum, Aufgabe g) · prepared · hazırlandı: [Protokoll_Versuch1_Gruppe9_vorbereitet.docx](06_Protokoll/Protokoll_Versuch1_Gruppe9_vorbereitet.docx)
 
 **Erklärung / Explanation / Açıklama (PDF):** [🇩🇪 Deutsch](03_Erklaerung/Versuch1_Erklaerung_DE.pdf) · [🇬🇧 English](03_Erklaerung/Versuch1_Erklaerung_EN.pdf) · [🇹🇷 Türkçe](03_Erklaerung/Versuch1_Erklaerung_TR.pdf)
 
