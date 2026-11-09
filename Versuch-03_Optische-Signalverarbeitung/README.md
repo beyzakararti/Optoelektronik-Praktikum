@@ -15,7 +15,6 @@
 | Protokoll (Simulationen ausgefüllt) / Report / Rapor | [DOCX](06_Protokoll/Protokoll_Versuch3_Simulation_ausgefuellt.docx) |
 | Fotos / Photos / Fotoğraflar | [07_Messungen/Fotos](07_Messungen/Fotos/) |
 | LTspice-Demo | [04_LTspice/Demo](04_LTspice/Demo/) |
-| Chat | [Chat-Verlauf_Versuch3.md](Chat-Verlauf_Versuch3.md) |
 
 ## Wichtigste Simulationsergebnisse (LTspice 26.1) · Key results · Önemli sonuçlar
 
