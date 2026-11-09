@@ -13,3 +13,5 @@ Versuch-*/04_LTspice/Demo/0*.net
 .DS_Store
 Thumbs.db
 desktop.ini
+# Keep preparation conversation transcripts out of the repository
+Chat-Verlauf_*.md
