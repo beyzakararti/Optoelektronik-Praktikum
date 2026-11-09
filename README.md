@@ -41,7 +41,6 @@
 | `06_Auswertung` | Excel-Vorlage mit Formeln für die Auswertung (Versuche 1, 2, 4, 5, 6) |
 | `06_Protokoll` | Protokoll (Vorlage mit ausgefüllten Simulationen, später die Endfassung) |
 | `07_Messungen` | Eigene Messdaten; `Fotos/` für Fotos vom Aufbau, Oszilloskop und Plotter |
-| `Chat-Verlauf_*.md` | Der Vorbereitungs-Chat mit Claude als Nachschlagewerk |
 
 ### Arbeitsablauf
 1. Vor dem Versuch: Erklärung lesen, Task durcharbeiten, LTspice-Demos ausprobieren.
@@ -89,7 +88,6 @@
 | `05_Simulationsergebnisse` | Plots from LTspice |
 | `06_Protokoll` | Lab report (template with filled-in simulations, later the final version) |
 | `07_Messungen` | Our measurements; `Fotos/` for photos of the setup, oscilloscope and plotter |
-| `Chat-Verlauf_*.md` | The preparation chat with Claude, for reference |
 
 ### Workflow
 1. Before the lab: read the explanation, work through the task, try the LTspice demos.
@@ -137,7 +135,6 @@
 | `05_Simulationsergebnisse` | LTspice grafikleri |
 | `06_Protokoll` | Rapor (simülasyon kısmı doldurulmuş şablon, sonra son hali) |
 | `07_Messungen` | Kendi ölçümlerimiz; `Fotos/` klasörü deney düzeneği, osiloskop ve plotter fotoğrafları için |
-| `Chat-Verlauf_*.md` | Claude ile yaptığımız hazırlık sohbeti (başvuru için) |
 
 ### Çalışma düzeni
 1. Deneyden önce: açıklamayı oku, Task'ı çalış, LTspice demolarını dene.
